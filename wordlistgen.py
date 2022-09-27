@@ -2,7 +2,7 @@ import random
 import time
 
 phvar = 0
-N = 10
+N = input("Welcome to my Python wordlist generator! Made with <3 by WilliamAfton-codes\nHow long would you like each string to be?: ")
 while phvar == 0:
     strings = input("How many strings would you like to generate and add to wordlist.txt?: ")
     while True:
