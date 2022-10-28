@@ -9,6 +9,7 @@ Once you have, run wordlistgen.py and input amount of strings to generate
 Strings will generate and be saved in wordlist.txt
 
 # Disclaimer
-I am not responsible for any illegal actions that someone may use this for
+I am not responsible for any illegal actions this is used for, and I will not be held legally responsible
+Don't be an idiot and use this program for malicious purposes
 
-This is made for educational purposes ONLY
+This program is made for educational/learning purposes ONLY
