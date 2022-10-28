@@ -8,7 +8,7 @@ Run `wordlistgen.py` and input amount of strings to generate
 
 Strings will generate and be saved in a newly created `wordlist.txt`
 
-Optional build from source here(guide/BFS.md)
+(Optional build from source [here](guide/BFS.md))
 
 # Disclaimer
 I am not responsible for any illegal actions this is used for, and I will not be held legally responsible
