@@ -12,6 +12,7 @@ Strings will generate and be saved in a newly created `wordlist.txt`
 
 # Disclaimer
 I am not responsible for any illegal actions this is used for, and I will not be held legally responsible
-Don't be an idiot and use this program for malicious purposes
+
+Don't be an idiot and NEVER use a program for malicious purposes
 
 This program is made for educational/learning purposes ONLY
