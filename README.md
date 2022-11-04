@@ -1,6 +1,8 @@
 # Wordlist-Generator
 Generates random alphanumeric strings with capital and lowercase letters and saves them to wordlist.txt for all your brute-forcing needs
 
+(Works on ALL Operating Systems, no pip requirements either!)
+
 # Usage
 ~~Make sure you have the empty wordlist.txt file in the same directory/folder as wordlistgen.py~~ (Fixed in latest release)
 
