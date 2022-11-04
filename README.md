@@ -4,7 +4,9 @@ Generates random alphanumeric strings with capital and lowercase letters and sav
 # Usage
 ~~Make sure you have the empty wordlist.txt file in the same directory/folder as wordlistgen.py~~ (Fixed in latest release)
 
-Run `wordlistgen.py` and input amount of strings to generate
+Download `main.py` from releases and input amount of strings to generate (note that the amount of strings to generate is multiplied by the threads)
+
+NEW ADDITION: Added multithreading to speed up wordlist creation!
 
 Strings will generate and be saved in a newly created `wordlist.txt`
 
